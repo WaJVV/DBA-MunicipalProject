@@ -55,3 +55,22 @@ El proyecto busca demostrar competencias técnicas en:
 - **S.O.: Linux / Windows (entorno de desarrollo)**
 
 ---
+
+## 🎥 Video del Proyecto
+
+👉 **Ver demostración completa del proyecto en video:**  
+📎 [Municipalidad Digital – Proyecto DBA Junior (Oracle SQL)](https://drive.google.com/file/d/1EuTtW2otzXeniSLD5QFFf1VDBjq0axKI/view)
+
+En este video explico el desarrollo y funcionamiento de mi proyecto **Municipalidad Digital**, una simulación de base de datos diseñada en Oracle como parte de mi portafolio profesional para el rol de Administrador de Base de Datos Junior.
+
+Durante la demostración se abordan aspectos clave como:
+
+- 🧱 Creación de tablas normalizadas con relaciones entre entidades.
+- 🧾 Inserción de datos simulados.
+- 🔍 Consultas SQL y vistas para obtener información útil del sistema.
+- 🔄 Automatización mediante triggers y procedimientos almacenados.
+- 🔐 Gestión de roles, privilegios y usuarios para control de acceso.
+- 💾 Documentación de backups y restore con herramientas DBA.
+- 📊 Simulación de casos reales como facturación, reclamos y control de accesos.
+
+Este video complementa el contenido del repositorio y refleja mi capacidad para diseñar, documentar y administrar una base de datos robusta, siguiendo buenas prácticas en Oracle SQL y PL/SQL.
