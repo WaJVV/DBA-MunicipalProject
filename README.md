@@ -17,7 +17,6 @@ El proyecto incluye:
 - 🔄 **Triggers (Disparadores)**
 - ⚙️ **Procedimientos Almacenados**
 - 🧑‍💻 **Gestión de Usuarios, Roles y Privilegios**
-- 💾 **Backup y Restore (expdp/impdp y RMAN) - Documentación**
 - 📊 **Casos de uso simulados: facturación, reclamos, pagos y control de accesos**
 
 ---
